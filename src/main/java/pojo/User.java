@@ -6,4 +6,5 @@ package pojo;
  */
 public class User {
     private String username;
+    private int id;
 }
